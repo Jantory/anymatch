@@ -89,7 +89,3 @@ For the baseline implementation and data analysis, please check out the followin
 * Ditto: https://github.com/megagonlabs/ditto
 * Jellyfish: https://huggingface.co/NECOUDBFM/Jellyfish-13B
 * MatchGPT: https://github.com/wbsg-uni-mannheim/MatchGPT/tree/main/LLMForEM
-
----
-
-We also provide the pretrained model weights, which are available [here](https://drive.google.com/drive/folders/1DpjXyCws02Tj9gvo4xNqhBhImSr7Cpgm?usp=drive_link).
